@@ -1,0 +1,1 @@
+I have a tendency to forget to use virtualenvs for tools I use all the time, which has led me to issues with incompatible versions of `requests` for a lot of my tools. Dockerize all the things to trade that frustration ;).
